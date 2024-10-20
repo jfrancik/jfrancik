@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on:
+  - A serious game utilising MQ3 headset mixed reality and hand tracking features to gamify physiotherapy for individuals with neurological conditions such as Cerebral Palsy, Multiple Sclerosis, Stroke, and Brain Injury.
+  - "King Æthelstan Project" - turning an iconic piece created by a nationally renowned sculptor into a VR/AR experience.
+ 
+- 🌱 I’m currently learning how to use Unreal Engine with Sony PlayStation 5 dev kit.
+
 <!--
 **jfrancik/jfrancik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
